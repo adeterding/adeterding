@@ -1,55 +1,48 @@
 # Hey, I'm Alex 👋
 
-Full stack web developer with 4 years of experience building modern web applications. I focus on clean, performant code and enjoy working across the stack — from UI to deployment.
+I build fast, modern web applications with a focus on clean architecture and great user experiences. Frontend-focused with 4 years of experience, currently expanding into full stack development and AI/ML.
 
 ## 🛠️ Tech Stack
 
 **Frontend**
 - SvelteKit, Next.js, TypeScript, React
 
-**Backend & APIs**
-- Node.js, REST, tRPC
+**CMS**
+- Builder.io, WordPress, Wix
 
-**Database**
-- PostgreSQL (Supabase), MongoDB
+**APIs & Integrations**
+- REST APIs, GraphQL, third-party integrations
 
-**DevOps & Deployment**
-- Vercel, Docker, GitHub Actions
+**Tools & Workflow**
+- Git, GitHub Actions, Azure Static Web Apps
+- Debugging & code fixes
 
-**AI/ML**
-- Python, Vercel AI SDK, LangChain, Ollama
-- Anthropic Claude, OpenAI
+**Deployment**
+- Vercel
 
-## 🔧 Tools & Environment
-- VS Code / Antigravity / Cursor
-- pnpm, fnm, Git (GPG signed commits)
-- WSL2, PowerShell 7
+## 🌱 Currently Expanding Into
+- Full stack development with Node.js, PostgreSQL, and MongoDB
+- AI/ML with Python and the Vercel AI SDK
+- Agentic development workflows with Claude & Ollama
 
-## 🌱 Currently Learning
-- AI/ML with Python
-- Building with the Vercel AI SDK
-- Agentic development workflows
+## 🔭 Currently Working On
+- Building projects with SvelteKit and Next.js
+- Exploring AI-powered web applications
+
+## 💬 Ask Me About
+- SvelteKit & Next.js
+- Frontend performance & debugging
+- CMS integrations (Builder.io, WordPress)
+- Vercel deployments
+
+## ⚡ Outside of Code
+When I'm not pushing commits, you'll find me on the golf course or pickleball court, in the gym, hunting down great coffee, or winning at movie trivia.
+
+## 📫 How to Reach Me
+- GitHub: [@adeterding](https://github.com/adeterding)
 
 ## 📊 GitHub Stats
 
 ![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adeterding&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adeterding&layout=compact&theme=dark&hide_border=true)
-
-## 📫 Get in Touch
-- GitHub: [@adeterding](https://github.com/adeterding)
-
-<!--
-**adeterding/adeterding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
